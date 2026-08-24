@@ -466,7 +466,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -744,7 +744,7 @@
         "uuid": "fbb597ca-297a-4338-ae0d-7994cc902267"
       }
     ],
-    "used_designators": "#PWR1-3,#PWR18,#PWR25,#PWR38,#PWR43,#PWR46-47,#PWR85-86,#PWR113-114,J1,C1,C_BY7-9,CB2-3",
+    "used_designators": "CBY10,#PWR1-4,#PWR18,#PWR25,#PWR38,#PWR43,#PWR46-52,#PWR85-86,#PWR113-114,#PWR124,#PWR127-128,#PWR130,#PWR133,#PWR136,#PWR139,#PWR142,#FLG1-2,J1,C1-9,C_BY3,C_BY7-9,U20,CB2-3,H1-4",
     "variants": []
   },
   "sheets": [

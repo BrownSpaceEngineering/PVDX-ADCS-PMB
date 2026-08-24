@@ -1736,7 +1736,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 123.444 143.51 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2341,7 +2341,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 108.204 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2831,7 +2831,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 123.444 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3372,7 +3372,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 108.204 50.8 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3451,7 +3451,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 108.204 143.51 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3530,7 +3530,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 123.444 50.8 90)
 			(show_name no)
 			(do_not_autoplace no)
