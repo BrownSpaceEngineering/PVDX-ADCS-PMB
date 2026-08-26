@@ -559,7 +559,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "PVDX-ADCS-Board.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
