@@ -12,6 +12,7 @@ fp-info-cache
 
 # Project-local settings — per-user, not design data
 *.kicad_prl
+*freerouting.dsn
 
 # SPICE regeneratable run output (keep .asc and models/, drop the rest)
 *.raw

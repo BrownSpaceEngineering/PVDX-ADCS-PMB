@@ -1052,6 +1052,25 @@
 			(embedded_fonts no)
 		)
 	)
+	(text_box "PD Amplifiers"
+		(exclude_from_sim no)
+		(at 15.24 15.24 0)
+		(size 15.24 3.9483)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2582e40a-c83b-45f9-bac9-bee34fbe6ca2")
+	)
 	(junction
 		(at 53.34 99.06)
 		(diameter 0)
@@ -5281,7 +5300,7 @@
 			(uuid "8efa128c-ef93-41bf-8fc6-0abe638d4820")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "R40")
 					(unit 1)
@@ -5381,7 +5400,7 @@
 			(uuid "7de479b5-811e-4207-8540-0600a6b1e83a")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "U17")
 					(unit 1)
@@ -5481,7 +5500,7 @@
 			(uuid "509d3c88-4f9f-4ebe-a661-9933f054ab5b")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "U12")
 					(unit 1)
@@ -5558,7 +5577,7 @@
 			(uuid "b6ad3c54-4c85-4ec1-9f4f-b5bd4942c498")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0126")
 					(unit 1)
@@ -5635,7 +5654,7 @@
 			(uuid "609ab0ed-52e6-476a-9b3a-1637c7b897bb")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0142")
 					(unit 1)
@@ -5712,7 +5731,7 @@
 			(uuid "fe4f06ed-8704-4b0e-b46a-99e0afa7b226")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0125")
 					(unit 1)
@@ -5791,7 +5810,7 @@
 			(uuid "6df74b5e-bf44-47a1-9979-cdd0a9a2d479")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "R44")
 					(unit 1)
@@ -5870,7 +5889,7 @@
 			(uuid "73ba62b8-f48e-4921-a7f9-42cbd7c5c08d")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C55")
 					(unit 1)
@@ -5949,7 +5968,7 @@
 			(uuid "91fdec99-a051-4e3f-b1b1-aaedba24baa5")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "R51")
 					(unit 1)
@@ -6026,7 +6045,7 @@
 			(uuid "3f05feff-6ef9-43f2-b320-f7df8b71db81")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0131")
 					(unit 1)
@@ -6103,7 +6122,7 @@
 			(uuid "e0ecb350-0f8a-475f-a455-f8f7f09cb2f7")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0124")
 					(unit 1)
@@ -6182,7 +6201,7 @@
 			(uuid "7057e3f7-cab2-49cf-b0e4-c81ad06dd5ef")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "R55")
 					(unit 1)
@@ -6259,7 +6278,7 @@
 			(uuid "39f6768a-19eb-45b3-8dd8-e5377a796714")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0138")
 					(unit 1)
@@ -6336,7 +6355,7 @@
 			(uuid "ff2d3386-8cc9-4a56-9a5f-8c0775949c84")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0140")
 					(unit 1)
@@ -6436,7 +6455,7 @@
 			(uuid "cc588c19-182d-4697-bd46-ddd13c164e3c")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "U14")
 					(unit 1)
@@ -6513,7 +6532,7 @@
 			(uuid "9b0c1c81-c9a8-4b8f-bb23-c42dd7ce5c62")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0134")
 					(unit 1)
@@ -6592,7 +6611,7 @@
 			(uuid "5ab05211-3744-4b17-909e-7cb020fabd0c")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C48")
 					(unit 1)
@@ -6669,7 +6688,7 @@
 			(uuid "84a30aed-b199-44f4-827d-5bc515fa4ec2")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0123")
 					(unit 1)
@@ -6748,7 +6767,7 @@
 			(uuid "27597c74-1850-4722-a3d6-c0a3c14fe169")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "R46")
 					(unit 1)
@@ -6827,7 +6846,7 @@
 			(uuid "2e4db3d2-bcc4-4ebb-a665-0888699e17bd")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C1")
 					(unit 1)
@@ -6904,7 +6923,7 @@
 			(uuid "a0b51204-cb31-4da6-9faf-821e77f03bb9")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0143")
 					(unit 1)
@@ -6981,7 +7000,7 @@
 			(uuid "12f54845-5d40-4506-9964-63715267c8b2")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0122")
 					(unit 1)
@@ -7058,7 +7077,7 @@
 			(uuid "731dde93-45eb-4bfb-82c7-1860cde10799")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0141")
 					(unit 1)
@@ -7158,7 +7177,7 @@
 			(uuid "f982bd8c-45ad-44ab-a096-0a6540b6a782")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "U13")
 					(unit 1)
@@ -7237,7 +7256,7 @@
 			(uuid "615cacd5-323a-4299-bd6e-9f632d0d41d4")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C4")
 					(unit 1)
@@ -7316,7 +7335,7 @@
 			(uuid "734b12fc-990d-4647-b5b4-5ef328c74779")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "R47")
 					(unit 1)
@@ -7393,7 +7412,7 @@
 			(uuid "b5a26e86-8d5a-49f9-8164-40aeaac1100a")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0120")
 					(unit 1)
@@ -7472,7 +7491,7 @@
 			(uuid "29a659bd-97f3-43cb-8f3f-4e9a8bdaed2e")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C45")
 					(unit 1)
@@ -7549,7 +7568,7 @@
 			(uuid "cedc7362-cd89-4d47-ab61-fdd0c2ad4da5")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0137")
 					(unit 1)
@@ -7628,7 +7647,7 @@
 			(uuid "ced9d503-4840-4cdb-bbfe-5f3f10aac569")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "R45")
 					(unit 1)
@@ -7707,7 +7726,7 @@
 			(uuid "0141fed5-b19b-40ad-8eb4-25e129282250")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C46")
 					(unit 1)
@@ -7784,7 +7803,7 @@
 			(uuid "fd874800-2567-4f6c-8d6f-6bb19d9c85a3")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR048")
 					(unit 1)
@@ -7861,7 +7880,7 @@
 			(uuid "fb251574-125d-4a4e-84b1-df5cd1ca59b2")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0119")
 					(unit 1)
@@ -7940,7 +7959,7 @@
 			(uuid "dcf88ccd-463f-46a8-9c77-2acb9f6d7d02")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "R48")
 					(unit 1)
@@ -8017,7 +8036,7 @@
 			(uuid "2c3acf56-f44f-4131-9ee5-4660de74f34a")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0128")
 					(unit 1)
@@ -8096,7 +8115,7 @@
 			(uuid "4de9476b-c9c5-4b75-8b0e-7c6758901292")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C9")
 					(unit 1)
@@ -8173,7 +8192,7 @@
 			(uuid "782e7079-a6e6-4d2b-9e21-ca24fdd31bfa")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0136")
 					(unit 1)
@@ -8252,7 +8271,7 @@
 			(uuid "a7e8a615-f0f9-4b2f-b8f2-2f8429e7a9ab")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C56")
 					(unit 1)
@@ -8329,7 +8348,7 @@
 			(uuid "24422093-d4d3-4018-ad55-83fcd6d30a43")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0133")
 					(unit 1)
@@ -8408,7 +8427,7 @@
 			(uuid "e87806c8-5530-40ec-a691-b6caa4d8a507")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "R43")
 					(unit 1)
@@ -8487,7 +8506,7 @@
 			(uuid "2940122a-54ea-4aa7-9383-4a7f6e9f0fdb")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C58")
 					(unit 1)
@@ -8566,7 +8585,7 @@
 			(uuid "edf9ecab-9f65-46aa-b11a-ff90333d8c52")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C2")
 					(unit 1)
@@ -8645,7 +8664,7 @@
 			(uuid "7efb9783-73db-43bb-b454-37530f546b45")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C53")
 					(unit 1)
@@ -8724,7 +8743,7 @@
 			(uuid "01098cf2-76f7-4721-a63a-33701659bb24")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "R41")
 					(unit 1)
@@ -8803,7 +8822,7 @@
 			(uuid "80e21c9d-f341-46c6-8db1-51e34f609120")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C60")
 					(unit 1)
@@ -8882,7 +8901,7 @@
 			(uuid "ea57354c-59c8-4d40-b7b6-6da303300536")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "R42")
 					(unit 1)
@@ -8961,7 +8980,7 @@
 			(uuid "5ed51cfa-53a1-46f3-afc5-7370d4e0e77b")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "R50")
 					(unit 1)
@@ -9040,7 +9059,7 @@
 			(uuid "f0512658-8ae0-408e-b782-15553cd32b5e")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C51")
 					(unit 1)
@@ -9119,7 +9138,7 @@
 			(uuid "1e458a89-06f8-4522-b46a-bd1a48622402")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C61")
 					(unit 1)
@@ -9198,7 +9217,7 @@
 			(uuid "a4732e4d-0f31-4b16-aaf1-6c58fb28ff89")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C7")
 					(unit 1)
@@ -9277,7 +9296,7 @@
 			(uuid "1c5f729b-83da-4651-8bf5-b082596f9cb0")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C6")
 					(unit 1)
@@ -9354,7 +9373,7 @@
 			(uuid "51e6e18a-84aa-4edc-bd9a-0f957df60cee")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0129")
 					(unit 1)
@@ -9431,7 +9450,7 @@
 			(uuid "cbec3bf0-0aff-46d5-9927-43fbc9b6eae5")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0135")
 					(unit 1)
@@ -9510,7 +9529,7 @@
 			(uuid "190cd0ed-92bb-407a-b392-433979a95edd")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "R54")
 					(unit 1)
@@ -9589,7 +9608,7 @@
 			(uuid "8a9a68c4-30ff-4607-97f1-7944bfa2bf0e")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C54")
 					(unit 1)
@@ -9666,7 +9685,7 @@
 			(uuid "4ad01aa2-6cd7-4574-9747-a9ec6b4e0050")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0132")
 					(unit 1)
@@ -9743,7 +9762,7 @@
 			(uuid "e9fd31da-634e-47a9-a098-0cf924191029")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0127")
 					(unit 1)
@@ -9822,7 +9841,7 @@
 			(uuid "ba329bd1-f54f-4ae1-afae-0bd3a32d58b1")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C8")
 					(unit 1)
@@ -9901,7 +9920,7 @@
 			(uuid "d388c163-b9f9-4ce3-a958-a424e0013a63")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "R52")
 					(unit 1)
@@ -9980,7 +9999,7 @@
 			(uuid "56df3123-15e8-4084-a990-f7036824407e")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C5")
 					(unit 1)
@@ -10059,7 +10078,7 @@
 			(uuid "5976bf5d-50a6-4c02-84de-f2847f280881")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C49")
 					(unit 1)
@@ -10159,7 +10178,7 @@
 			(uuid "bc1669e1-cf6a-4ebc-9547-e23cd0eb8cfb")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "U19")
 					(unit 1)
@@ -10259,7 +10278,7 @@
 			(uuid "7cb09d21-9471-48d0-bd9f-150e59608337")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "U16")
 					(unit 1)
@@ -10338,7 +10357,7 @@
 			(uuid "87389821-1e5d-4508-8784-134695e43bbb")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C52")
 					(unit 1)
@@ -10417,7 +10436,7 @@
 			(uuid "c865439a-7612-436b-b69d-acb5b5c70000")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C62")
 					(unit 1)
@@ -10496,7 +10515,7 @@
 			(uuid "2c24c901-cd33-4049-b939-dff002dd5ad0")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C57")
 					(unit 1)
@@ -10575,7 +10594,7 @@
 			(uuid "45febbc5-0b04-4edd-b7c1-3211a4c6fe04")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C50")
 					(unit 1)
@@ -10654,7 +10673,7 @@
 			(uuid "59dc0f9b-7f06-4ed1-8f84-82c492fed099")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "R57")
 					(unit 1)
@@ -10733,7 +10752,7 @@
 			(uuid "948c6f4c-87d8-4104-be00-4f7950d866c2")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "R49")
 					(unit 1)
@@ -10812,7 +10831,7 @@
 			(uuid "6bda75d6-c1b2-48ca-b9f9-9ae386de0c8a")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "R53")
 					(unit 1)
@@ -10912,7 +10931,7 @@
 			(uuid "329ad00b-fd86-4062-9173-679fa8ebe4f5")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "U11")
 					(unit 1)
@@ -10991,7 +11010,7 @@
 			(uuid "5ac714d4-95dc-4ff7-ae33-32e2b95b5b08")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "R56")
 					(unit 1)
@@ -11070,7 +11089,7 @@
 			(uuid "4b5b7e83-309c-41e0-be54-ee270f13dd56")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C59")
 					(unit 1)
@@ -11149,7 +11168,7 @@
 			(uuid "f477fc03-fecc-4322-ba85-09f8b6196e76")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C47")
 					(unit 1)
@@ -11249,7 +11268,7 @@
 			(uuid "2ff3ccdd-ba46-44e0-9e8b-f5136a05ab71")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "U15")
 					(unit 1)
@@ -11326,7 +11345,7 @@
 			(uuid "8f406d99-8b80-4e3c-897b-df3f76560575")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0130")
 					(unit 1)
@@ -11403,7 +11422,7 @@
 			(uuid "4bf13160-4dfa-468f-8c7c-a0afdbb0a244")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0144")
 					(unit 1)
@@ -11503,7 +11522,7 @@
 			(uuid "fe89c8f6-83d4-44f0-9f4e-a17283e5f523")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "U18")
 					(unit 1)
@@ -11581,7 +11600,7 @@
 			(uuid "f8af9a04-23ed-4a55-8c38-54f15c2fe474")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR02")
 					(unit 1)
@@ -11660,7 +11679,7 @@
 			(uuid "9ceb3bec-6787-4243-9673-ec3a726514db")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C3")
 					(unit 1)
@@ -11737,7 +11756,7 @@
 			(uuid "27b9ac14-5256-4686-9f67-3918c996afcf")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0139")
 					(unit 1)

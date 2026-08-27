@@ -1,0 +1,465 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "fbb597ca-297a-4338-ae0d-7994cc902267")
+	(paper "A3")
+	(title_block
+		(title "PVDX ADCS Board")
+		(date "2026-08-06")
+		(company "Brown Space Engineering")
+	)
+	(lib_symbols)
+	(table
+		(column_count 2)
+		(border
+			(external yes)
+			(header yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(separators
+			(rows yes)
+			(cols yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(column_widths 22.86 45.72)
+		(row_heights 2.54 2.54 2.54 2.54 2.54 2.54 2.54)
+		(uuid "edfe476d-e10d-4581-b0a2-b399fb7e084a")
+		(cells
+			(table_cell "LEGEND"
+				(exclude_from_sim no)
+				(at 33.02 22.86 0)
+				(size 22.86 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "03e90507-56f3-4073-b86b-4dc56dfd834d")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 55.88 22.86 0)
+				(size 45.72 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "2cef734e-7d25-4cf9-8695-2e9c9469ca83")
+			)
+			(table_cell "Abbreviation"
+				(exclude_from_sim no)
+				(at 33.02 25.4 0)
+				(size 22.86 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "f5d84c6e-9222-48f8-96dd-d42580ab2aaa")
+			)
+			(table_cell "Meaning"
+				(exclude_from_sim no)
+				(at 55.88 25.4 0)
+				(size 45.72 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "dda65a15-404f-49b7-8dbd-a80d78b337fa")
+			)
+			(table_cell "ADCS"
+				(exclude_from_sim no)
+				(at 33.02 27.94 0)
+				(size 22.86 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "0758d386-84ed-49ee-a3a4-386d47fbfc3c")
+			)
+			(table_cell "Attitude Determination and Control System"
+				(exclude_from_sim no)
+				(at 55.88 27.94 0)
+				(size 45.72 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "dad16157-70f7-42c3-935a-0f50b8f38859")
+			)
+			(table_cell "PMB"
+				(exclude_from_sim no)
+				(at 33.02 30.48 0)
+				(size 22.86 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "ad5113df-c683-4d8e-aa92-d85ac9766757")
+			)
+			(table_cell "Perovskite Measurement Board"
+				(exclude_from_sim no)
+				(at 55.88 30.48 0)
+				(size 45.72 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "7e1463ed-2dfc-4c05-84c4-5a4336e265b8")
+			)
+			(table_cell "MTQ"
+				(exclude_from_sim no)
+				(at 33.02 33.02 0)
+				(size 22.86 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "568b4ea0-b80f-4d9e-b05d-3bb330832595")
+			)
+			(table_cell "Magnetorquer"
+				(exclude_from_sim no)
+				(at 55.88 33.02 0)
+				(size 45.72 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "6834676b-7387-40ed-b45e-13544cdab7f2")
+			)
+			(table_cell "PVK"
+				(exclude_from_sim no)
+				(at 33.02 35.56 0)
+				(size 22.86 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "27c42c8d-5d52-47e1-ac19-aef8d7614820")
+			)
+			(table_cell "Perovskite"
+				(exclude_from_sim no)
+				(at 55.88 35.56 0)
+				(size 45.72 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "b64cb619-8301-40ae-9601-5060238e9f35")
+			)
+			(table_cell "PD"
+				(exclude_from_sim no)
+				(at 33.02 38.1 0)
+				(size 22.86 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "0f48502a-e07b-4bc7-9a0c-3a77b5f4ce8c")
+			)
+			(table_cell "Photodiode"
+				(exclude_from_sim no)
+				(at 55.88 38.1 0)
+				(size 45.72 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "aee92f27-c31f-4156-8c2d-3363bf2d8666")
+			)
+		)
+	)
+	(sheet
+		(at 64.77 140.97)
+		(size 26.035 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "2dc2922d-9694-40c4-a2c4-76eb44f991c2")
+		(property "Sheetname" "Magnetorquers"
+			(at 64.77 140.2584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "schematics/magnetorquers.kicad_sch"
+			(at 64.77 149.1746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PVDX-ADCS-PMB"
+				(path "/fbb597ca-297a-4338-ae0d-7994cc902267"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 64.77 99.06)
+		(size 26.035 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "393f9f45-1d58-4b55-b238-aac880a70c65")
+		(property "Sheetname" "Connectors"
+			(at 64.77 98.3484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "schematics/connectors.kicad_sch"
+			(at 64.77 107.2646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PVDX-ADCS-PMB"
+				(path "/fbb597ca-297a-4338-ae0d-7994cc902267"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 64.77 113.03)
+		(size 26.035 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "3d34634e-9850-4162-9945-f73c610e2cbd")
+		(property "Sheetname" "Photodiodes"
+			(at 64.77 112.3184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "schematics/photodiodes.kicad_sch"
+			(at 64.77 121.2346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PVDX-ADCS-PMB"
+				(path "/fbb597ca-297a-4338-ae0d-7994cc902267"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 64.77 127)
+		(size 26.035 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4bc90e74-7c2e-4008-bf56-b1a22e133efc")
+		(property "Sheetname" "Perovskites"
+			(at 64.77 126.2884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "schematics/perovskites.kicad_sch"
+			(at 64.77 135.2046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PVDX-ADCS-PMB"
+				(path "/fbb597ca-297a-4338-ae0d-7994cc902267"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

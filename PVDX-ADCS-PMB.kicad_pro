@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PVDX-ADCS-Board.kicad_pro",
+    "filename": "PVDX-ADCS-PMB.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -556,10 +556,10 @@
   "pcbnew": {
     "last_paths": {
       "idf": "",
-      "netlist": "",
+      "netlist": "./",
       "plot": "",
       "specctra_dsn": "",
-      "step": "PVDX-ADCS-Board.step",
+      "step": "PVDX-ADCS-PMB.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -739,12 +739,12 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "PVDX-ADCS-Board.kicad_sch",
-        "name": "Root",
+        "filename": "PVDX-ADCS-PMB.kicad_sch",
+        "name": "PVDX-ADCS-PMB",
         "uuid": "fbb597ca-297a-4338-ae0d-7994cc902267"
       }
     ],
-    "used_designators": "CBY10,#PWR1-4,#PWR18,#PWR25,#PWR38,#PWR43,#PWR46-52,#PWR85-86,#PWR113-114,#PWR124,#PWR127-128,#PWR130,#PWR133,#PWR136,#PWR139,#PWR142,#FLG1-2,J1,C1-9,C_BY3,C_BY7-9,U20,CB2-3,H1-4",
+    "used_designators": "CBY10,#PWR1-4,#PWR18,#PWR25,#PWR38,#PWR43,#PWR46-57,#PWR85-86,#PWR113-114,#PWR124,#PWR127-128,#PWR130,#PWR133,#PWR136,#PWR139,#PWR142,#FLG1-2,J1,C1-9,C_BY3,C_BY7-9,U20,CB2-3,H1-4",
     "variants": []
   },
   "sheets": [

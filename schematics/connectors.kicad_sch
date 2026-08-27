@@ -3689,7 +3689,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "to magnetorquers"
+	(text "Magnetorquer Out\n(to cores)"
 		(exclude_from_sim no)
 		(at 159.004 31.242 0)
 		(effects
@@ -3699,7 +3699,7 @@
 		)
 		(uuid "3224c2dd-2e9e-4d41-9481-5905f98e23fe")
 	)
-	(text "photodiode out\n(to compute board)"
+	(text "Photodiode Out\n(to compute board)"
 		(exclude_from_sim no)
 		(at 71.882 30.226 0)
 		(effects
@@ -3709,7 +3709,7 @@
 		)
 		(uuid "677cbe20-1b58-4b78-8559-127c03352647")
 	)
-	(text "power from compute"
+	(text "Power (from compute)"
 		(exclude_from_sim no)
 		(at 122.174 67.31 0)
 		(effects
@@ -3719,7 +3719,7 @@
 		)
 		(uuid "820e22bf-e24b-4eb9-a569-59ebdae31793")
 	)
-	(text "perovskite out\n(to compute board)"
+	(text "Perovskite Out\n(to compute board)"
 		(exclude_from_sim no)
 		(at 67.31 146.812 0)
 		(effects
@@ -3729,9 +3729,9 @@
 		)
 		(uuid "8de0552e-fa4a-4813-b96c-ccd6371e547d")
 	)
-	(text "photodiode in"
+	(text "Photodiode In"
 		(exclude_from_sim no)
-		(at 39.878 20.828 0)
+		(at 26.924 29.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3739,7 +3739,7 @@
 		)
 		(uuid "cd3e266c-d7de-47d1-9379-6d839e332814")
 	)
-	(text "magnetorquer in\n(from compute board)"
+	(text "Magnetorquer In\n(from compute board)"
 		(exclude_from_sim no)
 		(at 126.238 21.59 0)
 		(effects
@@ -3749,7 +3749,7 @@
 		)
 		(uuid "dac44976-d41d-4082-acec-587474f65123")
 	)
-	(text "perovskite in"
+	(text "Perovskite In"
 		(exclude_from_sim no)
 		(at 43.688 137.922 0)
 		(effects
@@ -6883,7 +6883,7 @@
 			(uuid "2aac5bae-9679-48b6-9b87-565e9201cc12")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/393f9f45-1d58-4b55-b238-aac880a70c65"
 					(reference "J1")
 					(unit 1)
@@ -6960,7 +6960,7 @@
 			(uuid "64235467-c344-4449-8b31-0e39b80a4fcd")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/393f9f45-1d58-4b55-b238-aac880a70c65"
 					(reference "#PWR042")
 					(unit 1)
@@ -7036,7 +7036,7 @@
 			)
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/393f9f45-1d58-4b55-b238-aac880a70c65"
 					(reference "H1")
 					(unit 1)
@@ -7112,7 +7112,7 @@
 			)
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/393f9f45-1d58-4b55-b238-aac880a70c65"
 					(reference "H3")
 					(unit 1)
@@ -7197,7 +7197,7 @@
 			(uuid "c144eecb-3714-4908-b940-24987e7ff699")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/393f9f45-1d58-4b55-b238-aac880a70c65"
 					(reference "J6")
 					(unit 1)
@@ -7395,7 +7395,7 @@
 			(uuid "4a597383-c0eb-4e96-91f7-289161f7ba2e")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/393f9f45-1d58-4b55-b238-aac880a70c65"
 					(reference "J2")
 					(unit 1)
@@ -7520,7 +7520,7 @@
 			(uuid "5da54b05-897c-4066-bc32-c6bce85ccd50")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/393f9f45-1d58-4b55-b238-aac880a70c65"
 					(reference "J5")
 					(unit 1)
@@ -7599,7 +7599,7 @@
 			(uuid "b39860d2-227b-41d9-942a-f061b707df03")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/393f9f45-1d58-4b55-b238-aac880a70c65"
 					(reference "#FLG02")
 					(unit 1)
@@ -7675,7 +7675,7 @@
 			)
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/393f9f45-1d58-4b55-b238-aac880a70c65"
 					(reference "H4")
 					(unit 1)
@@ -7752,7 +7752,7 @@
 			(uuid "f3587ef4-7698-422e-ad9e-e108766b756f")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/393f9f45-1d58-4b55-b238-aac880a70c65"
 					(reference "#PWR051")
 					(unit 1)
@@ -7829,7 +7829,7 @@
 			(uuid "c49abf3c-579e-4881-a4b3-61a58640532d")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/393f9f45-1d58-4b55-b238-aac880a70c65"
 					(reference "#PWR0111")
 					(unit 1)
@@ -7921,7 +7921,7 @@
 			(uuid "395ad447-e6c0-42fb-8970-933b145a4657")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/393f9f45-1d58-4b55-b238-aac880a70c65"
 					(reference "J3")
 					(unit 1)
@@ -8001,7 +8001,7 @@
 			(uuid "bfb691f6-9f0f-4a1a-bcf9-7d04eaddbca0")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/393f9f45-1d58-4b55-b238-aac880a70c65"
 					(reference "J4")
 					(unit 1)
@@ -8102,7 +8102,7 @@
 			(uuid "9ed714b5-46ce-4882-a5ee-9335ccff408f")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/393f9f45-1d58-4b55-b238-aac880a70c65"
 					(reference "J7")
 					(unit 1)
@@ -8181,7 +8181,7 @@
 			(uuid "881f3717-c44a-4b59-bb0f-a17576c02d15")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/393f9f45-1d58-4b55-b238-aac880a70c65"
 					(reference "#FLG01")
 					(unit 1)
@@ -8258,7 +8258,7 @@
 			(uuid "4636b018-0082-4715-86e9-131a478e480a")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/393f9f45-1d58-4b55-b238-aac880a70c65"
 					(reference "#PWR01")
 					(unit 1)
@@ -8334,7 +8334,7 @@
 			)
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/393f9f45-1d58-4b55-b238-aac880a70c65"
 					(reference "H2")
 					(unit 1)

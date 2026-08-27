@@ -1178,7 +1178,7 @@
 			(uuid "566caa0d-b740-4f0a-92d3-b94975cf3b0a")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/2dc2922d-9694-40c4-a2c4-76eb44f991c2"
 					(reference "C42")
 					(unit 1)
@@ -1281,7 +1281,7 @@
 			(uuid "39e42e2f-fc64-44b8-92ab-e912ec9639e5")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/2dc2922d-9694-40c4-a2c4-76eb44f991c2"
 					(reference "U10")
 					(unit 1)
@@ -1422,7 +1422,7 @@
 			(uuid "e9fc8d21-7a43-4b00-8c5b-3ead35f02a62")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/2dc2922d-9694-40c4-a2c4-76eb44f991c2"
 					(reference "CB3")
 					(unit 1)
@@ -1499,7 +1499,7 @@
 			(uuid "50f7bb53-277b-43dc-ada7-5472a058d087")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/2dc2922d-9694-40c4-a2c4-76eb44f991c2"
 					(reference "#PWR0110")
 					(unit 1)
@@ -1576,7 +1576,7 @@
 			(uuid "591ff23a-4e7e-4664-8f96-93a4bfaec69a")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/2dc2922d-9694-40c4-a2c4-76eb44f991c2"
 					(reference "#PWR0105")
 					(unit 1)
@@ -1653,7 +1653,7 @@
 			(uuid "5ed36742-1150-4547-9b12-ee73ff222c86")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/2dc2922d-9694-40c4-a2c4-76eb44f991c2"
 					(reference "#PWR0109")
 					(unit 1)
@@ -1730,7 +1730,7 @@
 			(uuid "8792ae33-2f07-4fb8-b635-7ad1d65ff1f3")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/2dc2922d-9694-40c4-a2c4-76eb44f991c2"
 					(reference "#PWR085")
 					(unit 1)
@@ -1809,7 +1809,7 @@
 			(uuid "4af161c7-cac4-4ebb-b515-0467fcd8b0f0")
 		)
 		(instances
-			(project "PVDX-ADCS-Board"
+			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/2dc2922d-9694-40c4-a2c4-76eb44f991c2"
 					(reference "C41")
 					(unit 1)
