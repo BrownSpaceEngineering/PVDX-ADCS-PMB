@@ -50,6 +50,7 @@ PVDX-ADCS-PMB/
 No revisions manufactured yet — board is in layout.
 
 ## Open items
+- _SPICE the PD amplifier circuit to verify gain_
 - Design review for layout
 - Generate Gerbers
 - Send out for fab
