@@ -4083,6 +4083,12 @@
 		(uuid "77898d87-2d41-4436-95cd-f6ce69e5495d")
 	)
 	(junction
+		(at 115.57 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7e1b0be8-0080-4202-9f18-d9ae6d0f1d49")
+	)
+	(junction
 		(at 41.91 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8028,6 +8034,85 @@
 			(project "PVDX-ADCS-PMB"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/393f9f45-1d58-4b55-b238-aac880a70c65"
 					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 115.57 91.44 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a4c7c62a-0a7f-46c2-8047-cf33f9eb04c0")
+		(property "Reference" "#FLG03"
+			(at 113.665 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 111.76 91.4399 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 115.57 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 115.57 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 115.57 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5cdb795f-4086-4eb4-beca-ae8dfcab6269")
+		)
+		(instances
+			(project "PVDX-ADCS-PMB"
+				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/393f9f45-1d58-4b55-b238-aac880a70c65"
+					(reference "#FLG03")
 					(unit 1)
 				)
 			)
