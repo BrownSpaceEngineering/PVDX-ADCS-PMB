@@ -744,13 +744,13 @@
         "uuid": "fbb597ca-297a-4338-ae0d-7994cc902267"
       }
     ],
-    "used_designators": "CBY10,#PWR1-4,#PWR18,#PWR25,#PWR38,#PWR43,#PWR46-57,#PWR85-86,#PWR113-114,#PWR124,#PWR127-128,#PWR130,#PWR133,#PWR136,#PWR139,#PWR142,#FLG1-2,J1,C1-9,C_BY3,C_BY7-9,U20,CB2-3,H1-4",
+    "used_designators": "U1-19,RSH1,R1-37,J1-7,H1-4,#FLG1-2,CBY1-6,CB1-3,C1-33,#PWR1-113",
     "variants": []
   },
   "sheets": [
     [
       "fbb597ca-297a-4338-ae0d-7994cc902267",
-      "Root"
+      "PVDX-ADCS-PMB"
     ],
     [
       "393f9f45-1d58-4b55-b238-aac880a70c65",
