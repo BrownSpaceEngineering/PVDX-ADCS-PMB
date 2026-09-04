@@ -3,7 +3,7 @@ Combined ADCS actuation and Perovskite Measurement Board. Drives magnetorquers f
 
 ## Status
 - Design phase: Ready for review
-- Current rev: rev-1.0
+- Current rev: rev-1.1
 - Contributors: Nick Cavallo, Kelly Lin, Brandon Montoya
 
 ## System overview
@@ -47,10 +47,10 @@ PVDX-ADCS-PMB/
 - **Manual routing over autorouting**: FreeRouting v2.3.0 proved unreliable for this board's density/isolation requirements; routing is done by hand.
 - **KiCad 10 Design Blocks unreliable for layout replication**: `MTQ_Driver` Design Block is reused at the schematic level only; PCB-side placement is manual (Swap command), not trusted to Design Block replication.
 ## Manufacturing history
-No revisions manufactured yet — board is in layout.
+| Rev | Date | Notes | Location |
+|-----|------|-------|----------|
+| 1.1 | 9/4/26 | Prepared for fabrication | `manufacturing/rev-1.0_2026-05-15/` |
 
 ## Open items
-- _SPICE the PD amplifier circuit to verify gain_
-- Design review for layout
-- Generate Gerbers
 - Send out for fab
+- Verify 

@@ -557,7 +557,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "./",
-      "plot": "",
+      "plot": "manufacturing/rev-1.1_2026-09-04/gerbers/",
       "specctra_dsn": "",
       "step": "PVDX-ADCS-PMB.step",
       "vrml": ""

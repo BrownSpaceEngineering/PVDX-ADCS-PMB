@@ -113,12 +113,13 @@
 		)
 		(capping no)
 		(filling no)
+		(zone_defaults)
 		(grid_origin 140 120)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
+			(usegerberextensions yes)
 			(usegerberattributes yes)
 			(usegerberadvancedattributes yes)
 			(creategerberjobfile yes)
@@ -146,9 +147,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "manufacturing/rev-1.1_2026-09-04/gerbers/")
 		)
 	)
 	(footprint "footprints:MountingHole_3.4mm_M3_PVDX"
@@ -4157,7 +4158,7 @@
 				)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "150p"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "2820435f-e4bf-486d-b684-dfb751352f6a")
@@ -6328,7 +6329,7 @@
 				)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "150p"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "43dcd076-92bf-4731-a30c-e353877bd49a")
@@ -6486,7 +6487,7 @@
 				)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "150p"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "8d12557f-2656-4812-ab1b-ef769aa777f2")
@@ -9079,7 +9080,7 @@
 				)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "150p"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "69763684-f938-4f92-89d1-8e7f94e086c1")
@@ -9395,7 +9396,7 @@
 				)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "150p"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "35d29225-9895-4362-8e91-62f6bd17bacf")
@@ -10670,7 +10671,7 @@
 				)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "150p"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "720d05e6-424e-4ce2-b4e5-7e6f2dc868d5")
@@ -11787,7 +11788,7 @@
 				)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "150p"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "8d74fd08-839c-4791-9118-3ddfa759b8f6")
@@ -12658,7 +12659,7 @@
 				)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "150p"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "c85f2e89-b40e-4bb1-adb2-da6fee5e8505")
@@ -14572,7 +14573,7 @@
 				)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "150p"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "fa714443-b26f-4e9a-a82b-ecc5841e44eb")
@@ -16005,7 +16006,7 @@
 				)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "150p"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "f4c7654c-2474-459a-a839-82e35f57e98c")
@@ -16163,7 +16164,7 @@
 				)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "150p"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "03fcc65c-12c3-4eae-bae8-25ccd9371c46")
@@ -17966,7 +17967,7 @@
 				)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "150p"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "b77e78db-65f6-421f-8198-ddad18c096dd")
@@ -19761,7 +19762,7 @@
 				)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "150p"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "16f31627-1843-4c12-a0a4-af105ed547a9")
@@ -21597,7 +21598,7 @@
 				)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "150p"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "2f082434-06e7-49a4-88ba-e8b5887a899e")
@@ -22073,7 +22074,7 @@
 				)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "150p"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "152b7c3c-33f4-447b-8641-44de507a1390")
@@ -22547,7 +22548,7 @@
 				)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "150p"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "0fe7c356-35cb-4c86-be5d-5f88ac14f38a")
@@ -24515,7 +24516,7 @@
 				)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "150p"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "e2153ad3-165d-4789-913e-5061bc7e3be8")
@@ -30197,7 +30198,7 @@
 				)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "150p"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "c5a9b13a-dcc3-4a63-99d7-eafbf78b5bdd")

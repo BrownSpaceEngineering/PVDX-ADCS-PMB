@@ -5522,8 +5522,8 @@
 				)
 			)
 		)
-		(property "Value" "22p"
-			(at 154.94 28.448 90)
+		(property "Value" "150p"
+			(at 154.94 27.94 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6475,8 +6475,8 @@
 				)
 			)
 		)
-		(property "Value" "22p"
-			(at 124.46 62.738 90)
+		(property "Value" "150p"
+			(at 124.46 62.23 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7509,8 +7509,8 @@
 				)
 			)
 		)
-		(property "Value" "22p"
-			(at 44.45 28.448 90)
+		(property "Value" "150p"
+			(at 44.45 27.94 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7744,8 +7744,8 @@
 				)
 			)
 		)
-		(property "Value" "22p"
-			(at 124.46 30.988 90)
+		(property "Value" "150p"
+			(at 124.46 30.48 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8443,8 +8443,8 @@
 				)
 			)
 		)
-		(property "Value" "22p"
-			(at 234.95 30.988 90)
+		(property "Value" "150p"
+			(at 234.95 30.48 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8986,8 +8986,8 @@
 				)
 			)
 		)
-		(property "Value" "22p"
-			(at 234.95 62.738 90)
+		(property "Value" "150p"
+			(at 234.95 62.23 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9144,8 +9144,8 @@
 				)
 			)
 		)
-		(property "Value" "22p"
-			(at 44.45 161.798 90)
+		(property "Value" "150p"
+			(at 44.45 161.29 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9302,8 +9302,8 @@
 				)
 			)
 		)
-		(property "Value" "22p"
-			(at 234.95 95.758 90)
+		(property "Value" "150p"
+			(at 234.95 95.25 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9539,8 +9539,8 @@
 				)
 			)
 		)
-		(property "Value" "22p"
-			(at 44.45 126.238 90)
+		(property "Value" "150p"
+			(at 44.45 125.73 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9618,8 +9618,8 @@
 				)
 			)
 		)
-		(property "Value" "22p"
-			(at 154.94 127.508 90)
+		(property "Value" "150p"
+			(at 154.94 127 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10319,8 +10319,8 @@
 				)
 			)
 		)
-		(property "Value" "22p"
-			(at 124.46 164.338 90)
+		(property "Value" "150p"
+			(at 124.46 163.83 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10866,8 +10866,8 @@
 				)
 			)
 		)
-		(property "Value" "22p"
-			(at 44.45 93.218 90)
+		(property "Value" "150p"
+			(at 44.45 92.71 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11145,8 +11145,8 @@
 				)
 			)
 		)
-		(property "Value" "22p"
-			(at 124.46 128.778 90)
+		(property "Value" "150p"
+			(at 124.46 128.27 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11224,8 +11224,8 @@
 				)
 			)
 		)
-		(property "Value" "22p"
-			(at 234.95 130.048 90)
+		(property "Value" "150p"
+			(at 234.95 129.54 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11303,8 +11303,8 @@
 				)
 			)
 		)
-		(property "Value" "22p"
-			(at 154.94 60.198 90)
+		(property "Value" "150p"
+			(at 154.94 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11382,8 +11382,8 @@
 				)
 			)
 		)
-		(property "Value" "22p"
-			(at 124.46 95.758 90)
+		(property "Value" "150p"
+			(at 124.46 95.25 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11877,8 +11877,8 @@
 				)
 			)
 		)
-		(property "Value" "22p"
-			(at 154.94 93.218 90)
+		(property "Value" "150p"
+			(at 154.94 92.71 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11956,8 +11956,8 @@
 				)
 			)
 		)
-		(property "Value" "22p"
-			(at 44.45 60.198 90)
+		(property "Value" "150p"
+			(at 44.45 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
