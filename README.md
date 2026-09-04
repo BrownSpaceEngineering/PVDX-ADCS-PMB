@@ -34,7 +34,11 @@ PVDX-ADCS-PMB/
 │   ├── 3dmodels/
 │   └── Library.kicad_blocks/
 │       └── MTQ_Driver.kicad_block/   # deprecated
-└── manufacturing/       # not yet created — pre-fab
+└── manufacturing/
+    └── rev-<N>_<date>/
+        ├── gerbers/
+        ├── bom/
+        └── plots/
 ```
 
 ## Key design notes
@@ -53,4 +57,4 @@ PVDX-ADCS-PMB/
 
 ## Open items
 - Send out for fab
-- Verify 
+- Verify new feedback impedance for PD amplifier circuit
