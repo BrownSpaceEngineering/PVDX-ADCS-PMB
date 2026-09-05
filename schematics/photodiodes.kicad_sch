@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "014505d9-c3db-4a19-9065-68e6829c3f39")
 	(paper "A4")
+	(title_block
+		(title "PVDX ADCS/PMB")
+		(date "2026-09-04")
+		(rev "1.1")
+		(company "Brown Space Engineering")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers
@@ -5047,7 +5053,29 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transimpedance Amplifier 2 Circuit 8-VSSOP"
+			(at 168.91 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 168.91 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2381AIDGKR"
 			(at 168.91 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -5147,7 +5175,29 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transimpedance Amplifier 2 Circuit 8-VSSOP"
+			(at 58.42 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 58.42 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2381AIDGKR"
 			(at 58.42 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -6179,7 +6229,29 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transimpedance Amplifier 2 Circuit 8-VSSOP"
+			(at 58.42 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 58.42 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2381AIDGKR"
 			(at 58.42 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -7055,7 +7127,29 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transimpedance Amplifier 2 Circuit 8-VSSOP"
+			(at 58.42 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 58.42 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2381AIDGKR"
 			(at 58.42 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -10980,7 +11074,29 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transimpedance Amplifier 2 Circuit 8-VSSOP"
+			(at 168.91 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 168.91 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2381AIDGKR"
 			(at 168.91 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -11080,7 +11196,29 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transimpedance Amplifier 2 Circuit 8-VSSOP"
+			(at 168.91 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 168.91 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2381AIDGKR"
 			(at 168.91 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -11733,7 +11871,29 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transimpedance Amplifier 2 Circuit 8-VSSOP"
+			(at 58.42 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 58.42 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2381AIDGKR"
 			(at 58.42 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -12070,7 +12230,29 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transimpedance Amplifier 2 Circuit 8-VSSOP"
+			(at 58.42 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 58.42 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2381AIDGKR"
 			(at 58.42 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -12478,7 +12660,29 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transimpedance Amplifier 2 Circuit 8-VSSOP"
+			(at 168.91 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 168.91 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2381AIDGKR"
 			(at 168.91 96.52 0)
 			(hide yes)
 			(show_name no)

@@ -113,7 +113,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(grid_origin 140 120)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
@@ -307,7 +306,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -465,7 +464,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 100 OHM 1% 1/10W 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -481,6 +480,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "46376689-6a7d-49b3-be8b-2be81f16fd5f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic Industry"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5852462d-062a-4e3e-8ba1-c760c0926822")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-3EKF1000V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "879c8e0d-7e8c-445f-8410-14a0a168bc41")
 			(effects
 				(font
 					(size 1 1)
@@ -940,7 +965,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transimpedance Amplifier 2 Circuit 8-VSSOP"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -948,6 +973,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bc3f5293-84f3-478a-8780-55475375b2b2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2381AIDGKR"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "13a8a5d9-3559-45b2-8b62-09e7eea0e09b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1740,7 +1791,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 21K OHM 0.1% 1/10W 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1756,6 +1807,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "168c82e0-db79-4feb-bd74-43bb23c8616e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Bourns Inc."
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7f4e6aaf-0e56-44ee-ab04-68aebee64ed2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRT0603-BY-2102ELF"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "64ad21cc-863b-478c-a4cd-7b96e6198f37")
 			(effects
 				(font
 					(size 1 1)
@@ -2056,7 +2133,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 100 OHM 1% 1/10W 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2072,6 +2149,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "6c7b282e-715b-4364-9d97-df06dbadd93f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic Industry"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2d388145-a013-4994-b1ae-4c1bd673cc9f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-3EKF1000V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e41a84ce-d1cb-4b90-b6a4-655f0076c548")
 			(effects
 				(font
 					(size 1 1)
@@ -2192,7 +2295,7 @@
 				)
 			)
 		)
-		(property "Value" "MCP23017x-x-SO"
+		(property "Value" "MCP23017-E/SO"
 			(at 0 9.9 90)
 			(layer "F.Fab")
 			(uuid "b5ff47b8-b2d2-4be9-b5d9-0db6b63692b3")
@@ -2230,6 +2333,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "da230cc3-914b-485b-9a28-bab23809d20a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Microchip Technology"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8fa86bba-2ee9-4d81-9605-a30fab5508cb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MCP23017-E/SO"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a4bcec0f-561f-45cf-ad5d-068eeea0b3ae")
 			(effects
 				(font
 					(size 1 1)
@@ -3231,7 +3360,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 100 OHM 1% 1/10W 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3247,6 +3376,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "608cf459-aca3-4028-86db-9ed2069bef47")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic Industry"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ea207e00-7958-43f1-9d3d-fbc7ca098aa7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-3EKF1000V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7647f3b3-0d30-40ad-bce5-8182bbe6c315")
 			(effects
 				(font
 					(size 1 1)
@@ -3863,7 +4018,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 100 OHM 1% 1/10W 0603"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -3879,6 +4034,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "6b2828d1-1b9e-428d-97b3-41cf8d7876e8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic Industry"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6eec1e55-0ff6-46ea-94ba-4e2e9d1d2eeb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-3EKF1000V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1f72acf0-66af-4440-a669-aa9e492585fa")
 			(effects
 				(font
 					(size 1 1)
@@ -4316,7 +4497,7 @@
 				)
 			)
 		)
-		(property "Value" "DRV8837C"
+		(property "Value" "DRV8837CDSGR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4347,6 +4528,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "27d94ca1-e02c-41d0-a98e-d1e612ee35ce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "DRV8837CDSGR"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e4f9a64d-6e59-4340-b0b1-5427d22b27d7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5129,7 +5336,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/crt.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5140,7 +5347,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 10 OHM 0.1% 1/10W 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5156,6 +5363,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "dbe9322a-d940-4d37-a8b1-1f90e5c5e661")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Bourns Inc."
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "93615eeb-1250-421c-9a06-a7f9857df94d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRT0603-BY-10R0ELF"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "42e43647-00bf-431e-b12c-c610e704cb36")
 			(effects
 				(font
 					(size 1 1)
@@ -5299,7 +5532,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transimpedance Amplifier 2 Circuit 8-VSSOP"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -5307,6 +5540,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b31e127b-a0b9-4558-b9d7-191e31dbb9e4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2381AIDGKR"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "82545937-08e6-492c-b45b-9f5ce10d8438")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7359,7 +7618,7 @@
 				)
 			)
 		)
-		(property "Value" "TLV9001IDCK"
+		(property "Value" "TLV9001IDCKR"
 			(at 0 1.8 90)
 			(layer "F.Fab")
 			(uuid "5269c8f6-e11f-4460-83d7-03f3b0ef421b")
@@ -7397,6 +7656,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "e32b54c6-3adc-478b-9553-959f710e0de2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a03f1384-da7f-4cc8-afcc-37b560b45e31")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TLV9001IDCKR"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e9f2de21-5e51-40ef-9bde-4a8f09558624")
 			(effects
 				(font
 					(size 1 1)
@@ -7783,7 +8068,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC SWITCH SPDTX4 4.5OHM 20TSSOP"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -7791,6 +8076,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Analog Devices Inc."
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "071d5060-16b5-4bad-8dfb-9c1831021c92")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ADG734BRUZ"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "face4584-06f0-4566-9e02-b1c1eefd16bf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9734,7 +10045,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 100 OHM 1% 1/10W 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9750,6 +10061,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "69713301-62ec-423e-a5e4-c46c05f7a1d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic Industry"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1abb9c6f-ef7a-4138-b9c4-88a32d1b9221")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-3EKF1000V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d4da3d95-7aed-46c4-8c4e-e387d6443ab4")
 			(effects
 				(font
 					(size 1 1)
@@ -9893,7 +10230,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transimpedance Amplifier 2 Circuit 8-VSSOP"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -9901,6 +10238,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ceae524a-b1f9-4188-8ad1-cd9fa72d2a4f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2381AIDGKR"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2486834b-25ce-4e39-960a-761e845b200d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11010,7 +11373,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transimpedance Amplifier 2 Circuit 8-VSSOP"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -11018,6 +11381,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9135c8e9-b7ea-41d0-8501-5983be1e05cb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2381AIDGKR"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "445b846b-c634-4a73-939a-782e87ab32b3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11652,7 +12041,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 100 OHM 1% 1/10W 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11668,6 +12057,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "758a4f81-c06c-4ea9-8a4b-26f8ff036e14")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic Industry"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b5e58386-8bdf-4fd9-a715-e28506ce5d60")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-3EKF1000V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d758fc0b-933f-427d-9177-258864de682c")
 			(effects
 				(font
 					(size 1 1)
@@ -12998,7 +13413,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transimpedance Amplifier 2 Circuit 8-VSSOP"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13006,6 +13421,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b471ba68-3c0d-4050-9011-ef39348e4d47")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2381AIDGKR"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f0e49c94-e0f9-4b28-9af3-5c8aab5aa31e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13640,7 +14081,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 100 OHM 1% 1/10W 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13656,6 +14097,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "8c5e0cf1-254a-4920-a5dd-546e46d518cb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic Industry"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "053b7efa-65a5-4239-aec0-d6af2ca6ba8a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-3EKF1000V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eec2d66f-0b94-4c1c-9802-09873dadc7bc")
 			(effects
 				(font
 					(size 1 1)
@@ -14911,7 +15378,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 100 OHM 1% 1/10W 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14927,6 +15394,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "e3950e8c-c9e2-4b13-aa3d-5d61eb4cddf7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic Industry"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "914a9797-b960-423a-a25b-e86d2cc4f2eb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-3EKF1000V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4a7ab527-9ad4-433d-9514-aa69a4f4a342")
 			(effects
 				(font
 					(size 1 1)
@@ -15069,7 +15562,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 100 OHM 1% 1/10W 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15085,6 +15578,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "599dfeab-9656-44e6-9e83-cc7b8bb52330")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic Industry"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1c083da7-b944-46da-b470-5c2a838e4ead")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-3EKF1000V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "233fa2bb-d8f5-4c08-a994-31a90a7671e4")
 			(effects
 				(font
 					(size 1 1)
@@ -15228,7 +15747,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transimpedance Amplifier 2 Circuit 8-VSSOP"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -15236,6 +15755,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a2d6011-e91d-4f93-8fb1-1e74396e3808")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2381AIDGKR"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d31b8002-2a78-4d93-9cfe-893ae6ab8974")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17831,7 +18376,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 100 OHM 1% 1/10W 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17847,6 +18392,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "5a10fdec-1a52-4886-9b0d-5c3cba6e3483")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic Industry"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bc50ec87-084d-4558-a894-6c8bb8eb3cb9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-3EKF1000V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "65cc30b9-7ffc-4269-ad98-57efc6a4afa5")
 			(effects
 				(font
 					(size 1 1)
@@ -18148,7 +18719,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC SWITCH SPDTX4 4.5OHM 20TSSOP"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -18156,6 +18727,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Analog Devices Inc."
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "03896583-bda1-4b11-8de6-4f9a06afe694")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ADG734BRUZ"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d4daccae-f4ca-47fb-8672-1324038be01c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -19467,7 +20064,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 100 OHM 1% 1/10W 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19483,6 +20080,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "28a69962-cccf-4890-92ec-19bc51d083ec")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic Industry"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c3577c49-0a2f-4274-979d-a276f8b027b4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-3EKF1000V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6e8b52b7-b3ab-4b8e-b7dc-e76f1b5205ad")
 			(effects
 				(font
 					(size 1 1)
@@ -19920,7 +20543,7 @@
 				)
 			)
 		)
-		(property "Value" "INA226"
+		(property "Value" "INA226AIDGSR"
 			(at 0 2.45 90)
 			(layer "F.Fab")
 			(uuid "98088e6a-0f66-42e5-bde9-71148fe2facc")
@@ -19958,6 +20581,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "255cf0dc-4243-4bc4-beb8-d574f12ac068")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a2331bef-861c-4c8b-930c-800b662db7ab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "INA226AIDGSR"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ce924617-f20e-45a5-a115-2dab603af324")
 			(effects
 				(font
 					(size 1 1)
@@ -20345,7 +20994,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transimpedance Amplifier 2 Circuit 8-VSSOP"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -20353,6 +21002,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8397b606-4b20-4060-b78a-517115776b44")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2381AIDGKR"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "38600b06-2a62-4f3f-b3d2-4df6350f3375")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -20987,7 +21662,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 100 OHM 1% 1/10W 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -21003,6 +21678,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "65eebb2a-47ed-4023-8921-009175661111")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic Industry"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6b701315-334e-43c0-bef7-af8d4e96bd5b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-3EKF1000V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "85530ee8-184d-491a-a293-0f477e45cba0")
 			(effects
 				(font
 					(size 1 1)
@@ -22412,7 +23113,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 100 OHM 1% 1/10W 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22428,6 +23129,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "440f187e-204f-443d-bb0d-4dff8d959efb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic Industry"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c288574e-b3c9-43d7-b866-de96a0b2257b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-3EKF1000V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "44740ea0-8379-4f02-8af8-48df4735cbde")
 			(effects
 				(font
 					(size 1 1)
@@ -23295,7 +24022,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transimpedance Amplifier 2 Circuit 8-VSSOP"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -23303,6 +24030,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4bb0fe38-7e58-41f6-aba0-41615a5f01b0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2381AIDGKR"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "81b2ca7b-e369-487e-b197-cf9094309497")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -23937,7 +24690,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 100 OHM 1% 1/10W 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23953,6 +24706,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "f544b9b2-6b28-42ac-b199-da1eeecfaf66")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic Industry"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f2d60af0-f13b-4a88-aa3c-a43ddfbf4cf4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-3EKF1000V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ce884cc8-2430-4cc4-a323-d68d2916b262")
 			(effects
 				(font
 					(size 1 1)
@@ -24697,7 +25476,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC SWITCH SPDTX4 4.5OHM 20TSSOP"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -24705,6 +25484,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Analog Devices Inc."
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5c36821a-bd9b-499f-b3ac-b5d3d0bdbf8a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ADG734BRUZ"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "91f1629e-ba05-478b-87df-8f527a82b2a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -26570,7 +27375,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 12K OHM 0.1% 1/10W 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26586,6 +27391,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "30dcef68-641a-47d4-b0ab-170316366440")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Bourns Inc."
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "49ff1158-6bb9-4cd8-ad90-14622c9c086e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRT0603-BY-1202ELF"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "960482ce-ae9d-470f-8528-d19bb51b544e")
 			(effects
 				(font
 					(size 1 1)
@@ -26886,7 +27717,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 100 OHM 1% 1/10W 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26902,6 +27733,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "d1672f78-16d4-493e-a43d-55db8547e377")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic Industry"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "67d3f902-8255-45e1-a27e-78ab670c1e72")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-3EKF1000V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "082b1253-e956-4e7f-9a42-c038f67a68f8")
 			(effects
 				(font
 					(size 1 1)
@@ -27045,7 +27902,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transimpedance Amplifier 2 Circuit 8-VSSOP"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -27053,6 +27910,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c50cbb23-dad1-4c80-9753-f5742e28109c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "OPA2381AIDGKR"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0f7a0c72-3cc8-4774-b2af-5582d57e01c7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -27687,7 +28570,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 100 OHM 1% 1/10W 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27703,6 +28586,32 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "41a113d6-2a16-4d1e-9258-2c78e3bbb33f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic Industry"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3ef901c1-a12e-40c3-b60f-d131f95023ac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-3EKF1000V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "043b2db8-d615-41d1-8786-5b5ace2a95e4")
 			(effects
 				(font
 					(size 1 1)
@@ -27823,7 +28732,7 @@
 				)
 			)
 		)
-		(property "Value" "DRV8837C"
+		(property "Value" "DRV8837CDSGR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27854,6 +28763,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0f9b438a-7e9b-4925-95e1-e8b2c4476b85")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "DRV8837CDSGR"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8c605683-af69-4734-a975-2de538f38bec")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -28351,7 +29286,7 @@
 				)
 			)
 		)
-		(property "Value" "DRV8837C"
+		(property "Value" "DRV8837CDSGR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28382,6 +29317,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6403022e-485f-411e-bb5c-b6871f05609e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "DRV8837CDSGR"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2ec6c48d-75e8-484c-9fa0-78986fe52b0f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -28902,7 +29863,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC SWITCH SPDTX4 4.5OHM 20TSSOP"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -28910,6 +29871,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Analog Devices Inc."
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "75e0f5b7-656a-4531-8fb6-9d6059640a84")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ADG734BRUZ"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dfacfcd5-75fd-4f47-9d99-bcdc3e08a394")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)

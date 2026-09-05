@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "014505d9-c3db-4a19-9065-68e6829c3f39")
 	(paper "A4")
+	(title_block
+		(title "PVDX ADCS/PMB")
+		(date "2026-09-04")
+		(rev "1.1")
+		(company "Brown Space Engineering")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers
@@ -1654,7 +1660,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DRV8837C"
+		(property "Value" "DRV8837CDSGR"
 			(at 116.4433 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1688,6 +1694,28 @@
 			)
 		)
 		(property "Description" "H-Bridge driver, 1A, Low Voltage, PWM input, WSON-8"
+			(at 114.3 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 114.3 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "DRV8837CDSGR"
 			(at 114.3 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -2118,7 +2146,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DRV8837C"
+		(property "Value" "DRV8837CDSGR"
 			(at 116.4433 175.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2152,6 +2180,28 @@
 			)
 		)
 		(property "Description" "H-Bridge driver, 1A, Low Voltage, PWM input, WSON-8"
+			(at 114.3 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 114.3 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "DRV8837CDSGR"
 			(at 114.3 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -2595,7 +2645,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DRV8837C"
+		(property "Value" "DRV8837CDSGR"
 			(at 116.4433 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2629,6 +2679,28 @@
 			)
 		)
 		(property "Description" "H-Bridge driver, 1A, Low Voltage, PWM input, WSON-8"
+			(at 114.3 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 114.3 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "DRV8837CDSGR"
 			(at 114.3 67.31 0)
 			(hide yes)
 			(show_name no)
